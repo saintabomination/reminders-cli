@@ -1,0 +1,10 @@
+{
+  "name": "reminders-cli",
+  "version": "1.0.0",
+  "description": "A small CLI program to manage reminders.",
+  "main": "src/main.ts",
+  "repository": "git@github.com:saintabomination/reminders.git",
+  "author": "saintabomination <saint.abomination@protonmail.com>",
+  "license": "GNU GPLv3",
+  "private": false
+}
